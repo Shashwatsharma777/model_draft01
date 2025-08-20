@@ -1,0 +1,5 @@
+Samples: 11000
+Classes: ['LOW_FUEL', 'NORMAL', 'REFUEL', 'THEFT']
+Accuracy: 0.9905
+Macro F1: 0.9842
+Weighted F1: 0.9904
